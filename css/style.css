@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+}
+
+.wrapper{
+    box-sizing: border-box;
+    padding-top: 0;
+}
+
+nav{
+    height: 50px;
+    width: 100%;
+    position: center;
+    top: 0;
+    left: 0;
+    background-color: darkcyan;
+    box-sizing: border-box;
+    padding: 20px 8px;
+    text-align: right;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: #035959;
+    margin: 8px;
+}
+
+h1{
+    box-sizing: border-box;
+    padding-top: 10px;
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Foceana.org%2Fmarine-life%2Fmarine-science-and-ecosystems%2Fopen-ocean&psig=AOvVaw1gPBhq7dRBcuBONdZOSC5H&ust=1635390650058000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIix0YnP6fMCFQAAAAAdAAAAABAD");
+    background-color: #035959;
+    font-size: larger;
+    text-align: center;
+    color: white;
+}
+
+
+footer{
+    height: 50px;
+    width: 100%;
+    background-color: #035959;
+}
+
+h2{
+    text-align: center;
+    font-size: larger;
+    justify-content: center;
+    align-items: center;
+}
+
